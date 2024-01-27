@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Lovepreet Singh</h1>
 <h3 align="center">Passionate Developer Exploring Boundless Code Horizons</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2QyajVkc3RjdjNzYmpreHBwNXppd291ZHJncWg3M3FydTI3ZzV3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whitenoizzzz&label=Profile%20views&color=0e75b6&style=flat" alt="whitenoizzzz" /> </p>
 
 - 🌱 I’m currently learning **React,Machine Learning**
@@ -26,6 +25,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=whitenoizzzz&show_icons=true&locale=en&layout=compact" alt="whitenoizzzz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=whitenoizzzz&show_icons=true&locale=en" alt="whitenoizzzz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whitenoizzzz&" alt="whitenoizzzz" /></p>
+
 
 
 
